@@ -8,7 +8,7 @@ Using the OpenCV function Canny on a Gaussian-smoothed grayscaled image and dete
 
 ![test](https://user-images.githubusercontent.com/34116562/49330877-edf86000-f5ba-11e8-8e07-bfe3c5349178.jpg)
 
-### Grayscale Image
+### Grayscaled Image
 
 ![gray](https://user-images.githubusercontent.com/34116562/49330878-ef298d00-f5ba-11e8-9d33-e669d81537d9.jpg)
 
