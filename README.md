@@ -2,6 +2,7 @@
 
 ## Detecting Lane lines by Canny Edge Detection
 
+
 Using the OpenCV function Canny on a Gaussian-smoothed grayscaled image and detected edges with thresholds on the gradient of high_threshold and low_threshold.
 
 ### Input Image
